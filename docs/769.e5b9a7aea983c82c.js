@@ -1,0 +1,1 @@
+(self.webpackChunkccmfeApp=self.webpackChunkccmfeApp||[]).push([[769],{8769:(c,o,n)=>{n.r(o),n.d(o,{OtherpaymentModule:()=>e});var l=n(2323),t=n(7653);let e=(()=>{class a{static \u0275fac=function(u){return new(u||a)};static \u0275mod=t.\u0275\u0275defineNgModule({type:a});static \u0275inj=t.\u0275\u0275defineInjector({imports:[l.CommonModule]})}return a})()}}]);
